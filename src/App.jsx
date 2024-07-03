@@ -18,11 +18,13 @@ function App() {
     <div>
       <Header/>
       <Nav/>
+  
       <Home/>
       <NewPost/>
       <PostPage/>
       <About/>
       <Missing/>
+     
       <Footer/>
 
       
